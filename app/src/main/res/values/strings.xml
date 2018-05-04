@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataBindingDemo</string>
+    <string name="linear_manager">android.support.v7.widget.LinearLayoutManager</string>
+    <string name="first_name">firstName=</string>
+    <string name="last_name">lastName=</string>
+    <string name="space">&#160;&#160;&#160;</string>
+</resources>
